@@ -1,0 +1,19 @@
+package main
+
+import(
+	e "github.com/PlatformBrigade/go_training/exportpackage"
+	"fmt"
+)
+func main() {
+	counter := e.AlertCount(10)
+	fmt.Printf("Counter: %d\n", counter)
+
+	// brigade := e.Brigade{
+	// 	Name: "Suresh",
+	// 	Value:"Manager",
+	// 	age:23,
+	// }
+
+	// fmt.Printf("Brigade %v \n" , brigade)
+
+}

@@ -1,0 +1,4 @@
+1. Write a go program to print all members of our brigade with below conditions.
+   a. If member name is "suresh", Print "suresh - Manager"
+   b. If member name is "asutosh", Print "asutosh - Automation Engineer"
+   c. Else, print member name.
